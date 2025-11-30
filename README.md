@@ -1,6 +1,6 @@
 # trendytrinkets.github.io
 live review https://trendy-trinkets.github.io/trendytrinkets.github.io/
-[trendytrinkets.html](https://github.com/user-attachments/files/23841752/trendytrinkets.html)
+[trendytrinkets.html]
 <html>
 <head>
 <title>Trendy Trinkets</title>
