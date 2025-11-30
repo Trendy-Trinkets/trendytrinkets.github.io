@@ -1,2 +1,2 @@
 # trendytrinkets.github.io
-Trendy html
+live review https://trendy-trinkets.github.io/trendytrinkets.github.io/
