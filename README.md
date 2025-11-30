@@ -1,2 +1,106 @@
 # trendytrinkets.github.io
 live review https://trendy-trinkets.github.io/trendytrinkets.github.io/
+[trendytrinkets.html](https://github.com/user-attachments/files/23841752/trendytrinkets.html)
+<html>
+<head>
+<title>Trendy Trinkets</title>
+</head>
+<body>
+	<p align="center"><b><font size="10">Welcome to Trendy Trinkets Home Page</font></b></p>
+</body>
+</html>
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Trendy Trinkets</title>
+<style>
+<body> { font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background:#f6f6f6;
+color: #333;
+ }
+header { background: #000;
+color: #fff;
+padding: 20px;
+text-align:center; }
+nav {background:  #fff;
+padding: 10px 20px;
+display: flex;
+justify-content: center;
+gap: 20px; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
+nav a { text-decoration: none;
+color: #333;
+font-weight: bold;
+ }
+ .hero { text-align: center;
+ padding: 60px 20px;
+ background: #ffe9f4;
+  }
+  .hero h1 { font-size:48px; 
+  margin-bottom: 10px; }
+  .section { padding: 40px 20px;
+  max-width: 1000px;
+  margin:auto; }
+  .product-card { background:#fff;
+  padding:20px;
+  border-radius:10px;
+  text-align:center;
+  box-shadow:0 2px 6px rgba(0, 0, 0, 0. 1); }
+footer { text-align:center;
+padding:20px;
+margin-top: 40px;
+background: #000;
+color: #fff; }
+</style>
+</head>
+<body>
+<header>
+	<h1>Trendy Trinkets</h1>
+	<p>Your go-to shop for stylish accessories & cute collectibles</p>
+</header>
+<nav>
+<a href="#home">Home</a>
+<a href="#products">Products</a>
+<a href="about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+<section class="hero" id="home">
+	<h1>Discover Your Next Favourite Trinket</h1>
+	<p>Trendy •  Affordable • Aesthetic</p> 
+</section>
+<section class="section" id="products">
+	<h2>Featured products</h2>
+	<div class="products">
+		<div class="product-card">
+			<h3>Crystal Necklace</h3>
+			<p>Elegant & minimal</p>
+		</div>
+		<div class="product-card">
+			<h3>Beads Bracelet</h3>
+			<p>Cute & Trendy</p>
+		</div>
+		<div class="product-card">
+			<h3>Aesthetic keychain</h3>
+			<p>Trendy & Affordable</p>
+		</div>
+	</div>
+</section>
+<section class="section" id="about">
+	<h2>About Trendy Trinkets</h2>
+	<p>We bring you trendy, handpicked accessories and collectible items that help you to express your style. Each item is selected for its unique charm and quality.</p>
+
+</section>
+<selection class="selection" id="contact">
+	<h2>Contact Us</h2>
+	<p>Email:trendytrinketsssss@gmail.com</p>
+	<p>Instagram: @_.trendytrinkets_</p>
+</selection>
+<footer>
+	<p> © 2023 Trendy Trinkets. All rights reserved.</p>
+</footer>
+</body>
+</html>
